@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ATM Machine/ATM Machine.iml" filepath="$PROJECT_DIR$/ATM Machine/ATM Machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CODSOFT.iml" filepath="$PROJECT_DIR$/.idea/CODSOFT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number Guessing game/Number Guessing game.iml" filepath="$PROJECT_DIR$/Number Guessing game/Number Guessing game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student Course Registration/Student Course Registration.iml" filepath="$PROJECT_DIR$/Student Course Registration/Student Course Registration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentGradeCalculator/StudentGradeCalculator.iml" filepath="$PROJECT_DIR$/StudentGradeCalculator/StudentGradeCalculator.iml" />
+    </modules>
+  </component>
+</project>
